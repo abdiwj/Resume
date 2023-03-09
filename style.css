@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin: 0;
+    
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.EDUCATION h2{
+    margin: 1rem 2rem;
+}
+
+.EDUCATIONS{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 5rem;
+
+}
+.COURSEWORK{
+    margin: 1rem 2rem;
+}
+
+.SKILLS {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+
+}
+
+.Honors{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+span{
+    font-weight: bold;
+}
+
+.Tools{
+    margin: 2rem 0;
+}
+
+.EXPERIENCE{
+    margin: 1rem 2rem;
+}
+
+.Security{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+.Nadifos{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+
+.RainierBeachAfterSchool{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 1rem 5rem;
+}
+
+.ACTIVITIES{
+    margin: 1rem 2rem;
+}
